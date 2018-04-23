@@ -1,0 +1,12 @@
+{
+	"name": "hasibkamal/calculator",
+    "description": "Practice Package Calculato",
+    "authors": [
+        {
+            "name": "Hasib Kamal Chowdhury",
+            "email": "hasibkamal.cse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
